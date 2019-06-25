@@ -10,11 +10,11 @@ Public Roadmap - Alpha Version
 
 # Alpha Phase 1
 
-* 敌方每日自动刷新
+* ~~敌方每日自动刷新~~
 
 * 敌方基础技能
 
-* 敌方基础参数
+* ~~敌方基础参数~~
 
 * 敌方掉落设定
 
@@ -22,7 +22,7 @@ Public Roadmap - Alpha Version
 
 * 敌方基础增益状态
 
-* 敌方静态外观
+* ~~敌方静态外观~~
 
 * 玩家技能
 
@@ -42,7 +42,7 @@ Public Roadmap - Alpha Version
 
 * 玩家技能装备道具自主设定
 
-* 玩家触发战斗
+* ~~玩家触发战斗~~
 
 * 玩家参战
 
