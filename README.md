@@ -105,3 +105,7 @@ Public Roadmap - Alpha Version
 * 技能栏数量上限扩充系统
 
 * 装备类型扩充
+
+* 数据转移
+
+* 回档处理
