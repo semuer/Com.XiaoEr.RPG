@@ -6,6 +6,8 @@ Public Roadmap - Alpha Version
 
 内容随时有变更的可能性，请参照最新版本。
 
+预计Alpha Phase 1完成后不定期上线测试，Alpha Phase 2完成后长期测试运行。
+
 # Alpha Phase 1
 
 * 敌方每日自动刷新
