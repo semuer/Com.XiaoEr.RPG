@@ -78,6 +78,10 @@ Public Roadmap - Alpha Version
 
 * 抽卡动画优化
 
+* 添加道具技能装备图标
+
+* 战斗Log格式化输出
+
 # Post-Release
 
 * 职业系统
