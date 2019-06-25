@@ -74,6 +74,8 @@ Public Roadmap - Alpha Version
 
 * 管理员指令
 
+* 抽卡动画优化
+
 # Post-Release
 
 * 职业系统
@@ -94,3 +96,12 @@ Public Roadmap - Alpha Version
 
 * 复数敌方系统
 
+* 青魔法学习系统
+
+* 宠物控制系职业系统
+
+* 目标达成奖励系统
+
+* 技能栏数量上限扩充系统
+
+* 装备类型扩充
