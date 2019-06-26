@@ -50,6 +50,8 @@ Public Roadmap - Alpha Version
 
 * 战斗后结算
 
+* 途中战败复活机制
+
 # Alpha Phase 2
 
 * 状态扩充
