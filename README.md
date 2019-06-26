@@ -84,6 +84,8 @@ Public Roadmap - Alpha Version
 
 * 战斗Log格式化输出
 
+* 队形系统
+
 # Post-Release
 
 * 职业系统
