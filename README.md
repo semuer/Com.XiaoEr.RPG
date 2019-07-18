@@ -52,6 +52,11 @@ Public Roadmap - Alpha Version
 
 * 途中战败复活机制
 
+* 商店系统
+
+* 获取事件系统
+
+
 # Alpha Phase 2
 
 * 状态扩充
